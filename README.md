@@ -51,15 +51,16 @@ O projeto tem como foco desenvolver habilidades de **business intelligence**, in
 
 | Sales Report |
 |--------------|
-| <img width="1343" height="738" alt="image" src="https://github.com/user-attachments/assets/29d9bcd9-f572-4371-956b-eaadce02e1fc" /> |
+| <img width="1339" height="741" alt="image" src="https://github.com/user-attachments/assets/9e477578-142e-43a8-99a4-ab2bdef4ed32" /> |
+
 
 | Lucro Detalhado |
 |-----------------|
-| <img width="1330" height="743" alt="image" src="https://github.com/user-attachments/assets/cf625abd-55b4-4c70-9d68-dd1a5fa69cff" /> | 
+| <img width="1318" height="731" alt="image" src="https://github.com/user-attachments/assets/562bfb38-316d-4503-bac9-002c95fad9c2" /> | 
 
 
 | Vendas Detalhado |
 |------------------|
-|<img width="1325" height="730" alt="image" src="https://github.com/user-attachments/assets/62f88029-daba-41f4-862e-9c011e4cb8e6" /> |
+|<img width="1344" height="745" alt="image" src="https://github.com/user-attachments/assets/b95779ce-03fa-411f-a575-89556571b791" /> |
 
 
